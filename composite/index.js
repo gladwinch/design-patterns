@@ -14,4 +14,4 @@ console.log('group_shoes total: ', `$${group_shoes.total}`)
 sneakers.print()
 flipFlops.print()
 
-group_shoes.print()
+group_shoes.print()``
