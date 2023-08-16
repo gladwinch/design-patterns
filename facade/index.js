@@ -52,7 +52,3 @@ videoProcessor.processVideo('sample.mp4', 'processed.mp4');
 // When you need to decouple client code from complex systems, promoting a loose coupling between systems.
 // When you want to group a set of functionalities and present a unified API.
 // However, it's worth noting that overusing the facade pattern can lead to issues, such as hiding necessary complexities, which might be crucial for certain advanced use cases. Always assess the situation and consider if the abstraction offered by a facade is truly beneficial.
-
-
-
-
